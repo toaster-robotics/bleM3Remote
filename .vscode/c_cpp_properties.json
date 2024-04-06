@@ -219,6 +219,7 @@
                 "/home/jason/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32s3/qio_qspi/include",
                 "/home/jason/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32",
                 "/home/jason/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32s3",
+                "/home/jason/Arduino/libraries/bleM3Remote/src",
                 "/home/jason/Arduino/libraries/NimBLE-Arduino/src",
                 "/home/jason/.arduino15/packages/esp32/tools/xtensa-esp32s3-elf-gcc/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/include/c++/8.4.0",
                 "/home/jason/.arduino15/packages/esp32/tools/xtensa-esp32s3-elf-gcc/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/include/c++/8.4.0/xtensa-esp32s3-elf",

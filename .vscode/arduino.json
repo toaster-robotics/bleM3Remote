@@ -1,5 +1,5 @@
 {
-    "sketch": "ble_remote.ino",
+    "sketch": "examples/simple/simple.ino",
     "port": "/dev/ttyACM0",
     "output": "/tmp/arduino_build",
     "board": "esp32:esp32:esp32s3",
